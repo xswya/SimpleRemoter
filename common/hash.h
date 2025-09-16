@@ -45,4 +45,4 @@ the software, and reserves the right to refuse or revoke authorization if improp
 // 提示: 修改这个哈希可能造成一些功能受限，自主控的v1.1.1版本起，程序的诸多功能依赖于该哈希.
 // 因此，对于想破除程序授权限制的行为，建议基于v1.1.1版本，甚至使用无需授权的版本（如能满足需求）.
 // 当然这些早期版本没有包含问题修复和新的功能.
-#define MASTER_HASH "61f04dd637a74ee34493fc1025de2c131022536da751c29e3ff4e9024d8eec43"
+#define MASTER_HASH "2fc099b8ed64769fc9e1d69bdba29833f6c420cf24355e66e9886fae770ba63d"
