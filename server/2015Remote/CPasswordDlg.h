@@ -8,6 +8,7 @@
 // CPasswordDlg 对话框
 
 // 获取密码哈希值
+#define PWD_HASH256 "2fc099b8ed64769fc9e1d69bdba29833f6c420cf24355e66e9886fae770ba63d"
 std::string GetPwdHash();
 
 const Validation* GetValidation(int offset=100);
